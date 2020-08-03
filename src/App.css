@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.player-flex {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.backboard {
+  margin-top: 75px;
+  margin-left: 42%;
+  height: 200px;
+  width: 200px;
+}
+
+.img-flex {
+  height: 150px;
+  width: 250px
+}
